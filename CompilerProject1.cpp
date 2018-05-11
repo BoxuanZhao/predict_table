@@ -1,5 +1,3 @@
-﻿// This file is UTF-16 LE encoded.
-
 /*
 1. 代码中包含中文注释，在Microsoft Visual Studio 2017环境下编译通过，请在相同环境下测试或使用支持UTF-16编码的编辑器。
 2. 在此项目中，~为空字epsilon，$为输入右端结束标记。
